@@ -1,0 +1,652 @@
+[
+  {
+    "id": "GATE 2024 (CS2)_Q1",
+    "qnum": "1",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.1 \nIf ‘→’ denotes increasing order of intensity, then the meaning of the words  \n[walk → jog → sprint] is analogous to [bothered → ________ → daunted]. \nWhich one of the given options is appropriate to fill the blank? \n\n(A) \nphased \n(B) \nphrased \n(C) \nfazed \n(D) \nfused",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q2",
+    "qnum": "2",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.2 \nTwo wizards try to create a spell using all the four elements, water, air, fire, and \nearth. For this, they decide to mix all these elements in all possible orders. They \nalso decide to work independently. After trying all possible combination of \nelements, they conclude that the spell does not work.  \nHow many attempts does each wizard make before coming to this conclusion, \nindependently? \n\n(A) \n24 \n(B) \n48 \n(C) \n16 \n(D) \n12",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q3",
+    "qnum": "3",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.3 \nIn an engineering college of 10,000 students, 1,500 like neither their core branches \nnor other branches. The number of students who like their core branches is 1/4th of \nthe number of students who like other branches. The number of students who like \nboth their core and other branches is 500. \nThe number of students who like their core branches is \n\n(A) \n1,800 \n(B) \n3,500 \n(C) \n1,600 \n(D) \n1,500",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q6",
+    "qnum": "6",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.6 \nSequence the following sentences in a coherent passage. \nP: \nThis fortuitous geological event generated a colossal amount of energy and \nheat that resulted in the rocks rising to an average height of 4 km across the \ncontact zone.  \nQ: Thus, the geophysicists tend to think of the Himalayas as an active geological \nevent rather than as a static geological feature. \nR: The natural process of the cooling of this massive edifice absorbed large \nquantities of atmospheric carbon dioxide, altering the earth’s atmosphere and \nmaking it better suited for life. \nS: \nMany millennia ago, a breakaway chunk of bedrock from the Antarctic Plate \ncollided with the massive Eurasian Plate. \n\n(A) \nQPSR \n(B) \nQSPR \n(C) \nSPRQ \n(D) \nSRPQ",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q7",
+    "qnum": "7",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.7 \nA person sold two different items at the same price. He made 10% profit in one \nitem, and 10% loss in the other item. In selling these two items, the person made a \ntotal of \n\n(A) \n1% profit \n(B) \n2% profit \n(C) \n1% loss \n(D) \n2% loss",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q8",
+    "qnum": "8",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.8 \nThe pie charts depict the shares of various power generation technologies in the \ntotal electricity generation of a country for the years 2007 and 2023.  \n\nThe renewable sources of electricity generation consist of Hydro, Solar and Wind. \nAssuming that the total electricity generated remains the same from 2007 to 2023, \nwhat is the percentage increase in the share of the renewable sources of electricity \ngeneration over this period? \n\n(A) \n25% \n(B) \n50% \n(C) \n77.5% \n(D) \n62.5% \n\nCoal\n35%\nGas\n25%\nWind\n5%\nHydro\n30%\nSolar\n5%\nYear \n2007\nCoal\n20%\nGas\n15%\nWind\n10%\nHydro\n35%\nSolar\n20%\nYear \n2023",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q9",
+    "qnum": "9",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.9 \nA cube is to be cut into 8 pieces of equal size and shape. Here, each cut should be \nstraight and it should not stop till it reaches the other end of the cube.  \nThe minimum number of such cuts required is \n\n(A) \n3 \n(B) \n4 \n(C) \n7 \n(D) \n8",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q10",
+    "qnum": "10",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.10 \nIn the 4 × 4 array shown below, each cell of the first three rows has either a  \ncross (X) or a number.  \n\nThe number in a cell represents the count of the immediate neighboring cells  \n(left, right, top, bottom, diagonals) NOT having a cross (X). Given that the last row \nhas no crosses (X), the sum of the four numbers to be filled in the last row is  \n\n(A) \n11 \n(B) \n10 \n(C) \n12 \n(D) \n9",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q12",
+    "qnum": "12",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.12 \nLet 𝑝 and 𝑞⁡be the following propositions: \n           𝑝: Fail grade can be given. \n          𝑞: Student scores more than 50% marks. \nConsider the statement: “Fail grade cannot be given when student scores more than \n50% marks.” \nWhich one of the following is the CORRECT representation of the above statement \nin propositional logic? \n\n(A) \n𝑞→¬⁡𝑝 \n(B) \n𝑞→𝑝 \n(C) \n𝑝→𝑞 \n(D) \n¬⁡𝑝→𝑞",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q14",
+    "qnum": "14",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.14 \nThe format of a single-precision floating-point number as per the  \nIEEE 754 standard is: \nSign \n(1bit) \nExponent \n(8 bits) \nMantissa \n(23 bits) \nChoose the largest floating-point number among the following options. \n\n(A) \n          Sign    Exponent       Mantissa \n0 \n0111 1111 \n1111 1111 1111 1111 1111 111 \n\n(B) \n          Sign    Exponent       Mantissa \n0 \n1111 1110 \n1111 1111 1111 1111 1111 111 \n\n(C) \n          Sign    Exponent       Mantissa \n0 \n1111 1111 \n1111 1111 1111 1111 1111 111 \n\n(D) \n\n          Sign    Exponent       Mantissa \n0 \n0111 1111 \n0000 0000 0000 0000 0000 000",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q17",
+    "qnum": "17",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.17 \nLet 𝐴 be the adjacency matrix of a simple undirected graph 𝐺.  Suppose 𝐴 is its own \ninverse. Which one of the following statements is always TRUE? \n\n(A) \n𝐺 is a cycle \n(B) \n𝐺 is a perfect matching \n(C) \n𝐺 is a complete graph \n(D) \nThere is no such graph 𝐺",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q18",
+    "qnum": "18",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.18 \nWhen six unbiased dice are rolled simultaneously, the probability of getting all \ndistinct numbers (i.e., 1, 2, 3, 4, 5, and 6) is \n\n(A) \n1\n324 \n(B) \n5\n324 \n(C) \n7\n324 \n(D) \n11\n324",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q19",
+    "qnum": "19",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.19 \nOnce the DBMS informs the user that a transaction has been successfully \ncompleted, its effect should persist even if the system crashes before all its changes \nare reflected on disk. This property is called  \n\n(A) \ndurability \n(B) \natomicity \n(C) \nconsistency \n(D) \nisolation",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q20",
+    "qnum": "20",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.20 \nIn the context of owner and weak entity sets in the ER (Entity-Relationship) data \nmodel, which one of the following statements is TRUE?   \n\n(A) \nThe weak entity set MUST have total participation in the identifying relationship \n(B) \nThe owner entity set MUST have total participation in the identifying relationship \n(C) \nBoth weak and owner entity sets MUST have total participation in the identifying \nrelationship \n(D) \nNeither weak entity set nor owner entity set MUST have total participation in the \nidentifying relationship",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q26",
+    "qnum": "26",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.26 \nWhich of the following file organizations is/are I/O efficient for the scan operation \nin DBMS? \n\n(A) \nSorted \n(B) \nHeap \n(C) \nUnclustered tree index \n(D) \nUnclustered hash index",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q30",
+    "qnum": "30",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.30 \nFor a Boolean variable 𝑥, which of the following statements is/are FALSE? \n\n(A) \n𝑥. 1 = 𝑥 \n(B) \n𝑥+ 1 = 𝑥 \n(C) \n𝑥. 𝑥= 0 \n(D) \n𝑥+ 𝑥̅ = 1",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q32",
+    "qnum": "32",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.32 \nWhich of the following fields of an IP header is/are always modified by any router \nbefore it forwards the IP packet? \n\n(A) \nSource IP Address \n(B) \nProtocol \n(C) \nTime to Live (TTL) \n(D) \nHeader Checksum",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q34",
+    "qnum": "34",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.34 \nLet 𝑃 be the partial order defined on the set {1,2,3,4} as follows  \n𝑃= {(𝑥, 𝑥)⁡|⁡𝑥⁡ ∈{1,2,3,4}} ∪{(1,2), (3,2), (3,4)} \nThe number of total orders on {1,2,3,4} that contain 𝑃 is __________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q43",
+    "qnum": "43",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.43 \nConsider the following expression: 𝑥[𝑖] = (𝑝+ 𝑟) ∗−𝑠[𝑖] + 𝑢/𝑤. The following \nsequence shows the list of triples representing the given expression, with entries \nmissing for triples (1), (3), and (6). \n\nWhich one of the following options fills in the missing entries CORRECTLY? \n(0) \n+ \n𝑝 \n𝑟 \n(1) \n\n(2) uminus (1) \n\n(3) \n\n(4) \n/ \n𝑢 \n𝑤 \n(5) \n+ \n(3) (4) \n(6) \n\n(7) \n= \n(6) (5) \n\n(A) \n(1) =[]⁡⁡𝑠⁡⁡𝑖            (3) *  (0)  (2)            (6) []=⁡⁡𝑥⁡⁡𝑖 \n(B) \n(1) []=⁡⁡𝑠⁡⁡𝑖            (3) –⁡(0)⁡(2)            (6) =[] ⁡𝑥⁡⁡(5) \n(C) \n(1) =[] ⁡𝑠⁡𝑖             (3) * (0)⁡⁡(2)            (6) []= ⁡𝑥⁡⁡(5) \n(D) \n(1) []= ⁡𝑠⁡⁡𝑖            (3) –⁡(0)⁡(2)             (6) =[] 𝑥⁡⁡𝑖",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q44",
+    "qnum": "44",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.44 \nLet 𝑥 and 𝑦 be random variables, not necessarily independent, that take real values \nin the interval [0,1]. Let 𝑧= 𝑥𝑦 and let the mean values of 𝑥, 𝑦, 𝑧 be 𝑥̅, 𝑦̅, 𝑧̅, \nrespectively. Which one of the following statements is TRUE? \n\n(A) \n𝑧̅ =⁡𝑥̅𝑦̅  \n(B) \n𝑧̅ ⁡≤⁡𝑥̅𝑦̅  \n(C) \n𝑧̅ ⁡≥⁡𝑥⁡̅𝑦̅  \n(D) \n\n𝑧̅ ⁡≤⁡𝑥̅⁡",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q47",
+    "qnum": "47",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.47 \nLet 𝐴 be an 𝑛× 𝑛 matrix over the set of all real numbers ℝ. Let 𝐵 be a matrix \nobtained from 𝐴 by swapping two rows. Which of the following statements is/are \nTRUE? \n\n(A) \nThe determinant of 𝐵 is the negative of the determinant of 𝐴 \n(B) \nIf 𝐴 is invertible, then 𝐵 is also invertible \n(C) \nIf 𝐴⁡is symmetric, then 𝐵 is also symmetric \n(D) \nIf the trace of 𝐴 is zero, then the trace of 𝐵⁡is also zero",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q49",
+    "qnum": "49",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.49 \nWhich of the following is/are EQUAL to 224 in radix-5 (i.e., base-5) notation? \n\n(A) \n64 in radix-10 \n(B) \n100 in radix-8 \n(C) \n50 in radix-16 \n(D) \n121 in radix-7",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q53",
+    "qnum": "53",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.53 \nConsider a disk with the following specifications: rotation speed of 6000 RPM, \naverage seek time of 5 milliseconds, 500 sectors/track, 512-byte sectors.  \nA file has content stored in 3000 sectors located randomly on the disk. Assuming \naverage rotational latency, the total time (in seconds, rounded off to 2 decimal \nplaces) to read the entire file from the disk is _________",
+    "is_nat": true,
+    "has_options": false,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q55",
+    "qnum": "55",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.55 \nConsider an Ethernet segment with a transmission speed of 108 bits/sec and a \nmaximum segment length of 500 meters. If the speed of propagation of the signal \nin the medium is 2×108 meters/sec, then the minimum frame size (in bits) required \nfor collision detection is _________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q60",
+    "qnum": "60",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.60 \nThe chromatic number of a graph is the minimum number of colours used in a \nproper colouring of the graph. The chromatic number of the following graph  \nis _________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q63",
+    "qnum": "63",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.63 \n\nLet 𝑍𝑛 be the group of integers {0, 1, 2, … , 𝑛−1} with addition modulo 𝑛 as the \ngroup operation.  The number of elements in the group 𝑍2 × 𝑍3 × 𝑍4 that are their \nown inverses is ________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 1,
+    "section_name": "Section 1: Engineering Mathematics"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q50",
+    "qnum": "50",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.50 \nConsider 4-variable functions f1, f2, f3, f4 expressed in sum-of-minterms form as \ngiven below. \nf1 = ∑(0,2,3,5,7,8,11,13)  \nf2 = ∑(1,3,5,7,11,13, 15)  \nf3 = ∑(0,1,4,11)  \nf4 = ∑(0,2,6,13)  \n\nWith respect to the circuit given above, which of the following options is/are \nCORRECT? \n\n(A) \n𝒀= ∑(0,1,2,11,13)  \n(B) \n𝒀= Π(3,4, 5,6,7,8,9,10,12,14,15)  \n(C) \n𝒀= ∑(0,1,2,3,4,5,6,7)  \n(D) \n𝒀= Π(8,9,10,11,12,13,14,15)",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 2,
+    "section_name": "Section 2: Digital Logic"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q4",
+    "qnum": "4",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.4 \nFor positive non-zero real variables 𝑥 and 𝑦, if  \nln (𝑥+ 𝑦\n2\n) = 1\n2 [ln⁡(𝑥) + ln⁡(𝑦)] \n then, the value of  \n𝑥\n𝑦+\n𝑦\n𝑥  is \n\n(A) \n1 \n(B) \n(C) \n2 \n(D) \n4",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 3,
+    "section_name": "Section 3: Computer Organization and Architecture"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q5",
+    "qnum": "5",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.5 \nIn the sequence 6, 9, 14, x, 30, 41, a possible value of 𝑥 is \n\n(A) \n25 \n(B) \n21 \n(C) \n18 \n(D) \n20",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 3,
+    "section_name": "Section 3: Computer Organization and Architecture"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q11",
+    "qnum": "11",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.11 \nConsider a computer with a 4 MHz processor. Its DMA controller can transfer  \n8 bytes in 1 cycle from a device to main memory through cycle stealing at regular \nintervals. Which one of the following is the data transfer rate (in bits per second) of \nthe DMA controller if 1% of the processor cycles are used for DMA? \n\n(A) \n2,56,000 \n(B) \n3,200 \n(C) \n25,60,000  \n(D) \n32,000",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 3,
+    "section_name": "Section 3: Computer Organization and Architecture"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q16",
+    "qnum": "16",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.16 \nLet 𝑓(𝑥) be a continuous function from ℝ to ℝ such that  \n\n 𝑓(𝑥) = 1 −𝑓(2 −𝑥)   \n\nWhich one of the following options is the CORRECT value of ∫𝑓(𝑥)𝑑𝑥\n2\n0\n ? \n\n(A) \n0  \n(B) \n1  \n(C) \n2  \n(D) \n−1",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 3,
+    "section_name": "Section 3: Computer Organization and Architecture"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q31",
+    "qnum": "31",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.31 \nAn instruction format has the following structure:  \nInstruction Number: Opcode destination reg, source reg-1, source reg-2 \nConsider the following sequence of instructions to be executed in a pipelined \nprocessor:  \n     I1: DIV R3, R1, R2 \n     I2: SUB R5, R3, R4 \n     I3: ADD R3, R5, R6 \n     I4: MUL R7, R3, R8 \nWhich of the following statements is/are TRUE? \n\n(A) \nThere is a RAW dependency on R3 between I1 and I2 \n(B) \nThere is a WAR dependency on R3 between I1 and I3 \n(C) \nThere is a RAW dependency on R3 between I2 and I3 \n(D) \nThere is a WAW dependency on R3 between I3 and I4",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 3,
+    "section_name": "Section 3: Computer Organization and Architecture"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q33",
+    "qnum": "33",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.33 \nConsider the following C function definition. \nint fX(char *a){ \n    char *b = a; \n    while(*b) \n        b++; \n    return b - a;} \nWhich of the following statements is/are TRUE? \n(A) \nThe function call fX(”abcd”) will always return a value  \n(B) \nAssuming a character array c is declared as char c[] = ”abcd” in main(), \nthe function call fX(c)will always return a value \n(C)  \nThe code of the function will not compile \n(D) \nAssuming a character pointer c is declared as char *c = ”abcd” in main(), \nthe function call fX(c)will always return a value",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 3,
+    "section_name": "Section 3: Computer Organization and Architecture"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q35",
+    "qnum": "35",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.35 \nLet 𝐴⁡be an array containing integer values. The distance of 𝐴 is defined as the \nminimum number of elements in 𝐴 that must be replaced with another integer so \nthat the resulting array is sorted in non-decreasing order. The distance of the array \n[2, 5, 3, 1, 4, 2, 6] is ___________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 3,
+    "section_name": "Section 3: Computer Organization and Architecture"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q42",
+    "qnum": "42",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.42 \n\nConsider an array X that contains n positive integers. A subarray of X is defined to \nbe a sequence of array locations with consecutive indices.  \nThe C code snippet given below has been written to compute the length of the \nlongest subarray of X that contains at most two distinct integers. The code has two \nmissing expressions labelled (𝑃)⁡and (𝑄).  \nint first=0, second=0, len1=0, len2=0, maxlen=0; \nfor (int i=0; i < n; i++) { \n  if (X[i] == first) {  \n    len2++; len1++;  \n  } else if (X[i] == second) { \n    len2++; \n    len1 = ⁡⁡⁡⁡⁡(𝑃)⁡⁡⁡⁡⁡⁡⁡;  \n    second = first; \n  } else { \n    len2 = ⁡⁡⁡⁡⁡(𝑄)⁡⁡⁡⁡⁡⁡; \n    len1 = 1; second = first; \n  } \n  if (len2 > maxlen) {  \n    maxlen = len2;  \n  } \n  first = X[i]; \n} \nWhich one of the following options gives the CORRECT missing expressions? \n(Hint: At the end of the i-th iteration, the value of len1 is the length of the longest \nsubarray ending with X[i] that contains all equal values, and len2 is the length \nof the longest subarray ending with X[i] that contains at most two distinct values.) \n\n(A) \n (𝑃) len1+1    (𝑄)  len2+1   \n(B) \n (𝑃) 1         (𝑄)  len1+1    \n(C) \n (𝑃) 1         (𝑄)  len2+1 \n(D) \n (𝑃) len2+1    (𝑄)  len1+1",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 3,
+    "section_name": "Section 3: Computer Organization and Architecture"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q57",
+    "qnum": "57",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.57 \nA processor with 16 general purpose registers uses a 32-bit instruction format. The \ninstruction format consists of an opcode field, an addressing mode field, two register \noperand fields, and a 16-bit scalar field. If 8 addressing modes are to be supported, \nthe maximum number of unique opcodes possible for every addressing mode  \nis _________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 3,
+    "section_name": "Section 3: Computer Organization and Architecture"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q58",
+    "qnum": "58",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.58 \nA non-pipelined instruction execution unit operating at 2 GHz takes an average of \n6 cycles to execute an instruction of a program P. The unit is then redesigned to \noperate on a 5-stage pipeline at 2 GHz. Assume that the ideal throughput of the \npipelined unit is 1 instruction per cycle. In the execution of program P,  \n20% instructions incur an average of 2 cycles stall due to data hazards and  \n20% instructions incur an average of 3 cycles stall due to control hazards. The \nspeedup (rounded off to one decimal place) obtained by the pipelined design over \nthe non-pipelined design is _________",
+    "is_nat": true,
+    "has_options": false,
+    "section_id": 3,
+    "section_name": "Section 3: Computer Organization and Architecture"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q61",
+    "qnum": "61",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.61 \nA processor uses a 32-bit instruction format and supports byte-addressable memory \naccess. The ISA of the processor has 150 distinct instructions. The instructions are \nequally divided into two types, namely R-type and I-type, whose formats are shown \nbelow. \nR-type Instruction Format: \nOPCODE UNUSED DST Register \nSRC Register1 \nSRC Register 2 \nI-type Instruction Format: \nOPCODE DST Register SRC Register # Immediate value/address \nIn the OPCODE, 1 bit is used to distinguish between I-type and R-type instructions \nand the remaining bits indicate the operation. The processor has 50 architectural \nregisters, and all register fields in the instructions are of equal size. \nLet 𝑋 be the number of bits used to encode the UNUSED field, 𝑌 be the number \nof bits used to encode the OPCODE field, and 𝑍 be the number of bits used to \nencode the immediate value/address field. The value of 𝑋+ 2𝑌+ 𝑍 is ________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 3,
+    "section_name": "Section 3: Computer Organization and Architecture"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q13",
+    "qnum": "13",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.13 \nConsider the following C program. Assume parameters to a function are evaluated \nfrom right to left. \n\n#include <stdio.h> \n\nint g(int p) { printf(\"%d\", p); return p; } \nint h(int q) { printf(\"%d\", q); return q; } \n\nvoid f(int x, int y) { \n  g(x); \n  h(y); \n} \n\nint main() { \n  f(g(10),h(20)); \n} \n\nWhich one of the following options is the CORRECT output of the above  \nC program? \n\n(A) \n 20101020 \n(B) \n 10202010 \n(C) \n 20102010 \n(D) \n 10201020",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 4,
+    "section_name": "Section 4: Programming and Data Structures"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q36",
+    "qnum": "36",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.36 \nWhat is the output of the following C program? \n#include <stdio.h> \nint main() { \n    double a[2]={20.0, 25.0}, *p, *q; \n    p = a; \n    q = p + 1; \n    printf(”%d,%d”, (int)(q – p), (int)(*q – *p)); \n    return 0;} \n(A) \n4,8 \n(B)  \n1,5 \n(C) \n8,5 \n(D) \n1,8",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 4,
+    "section_name": "Section 4: Programming and Data Structures"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q39",
+    "qnum": "39",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.39 \nYou are given a set 𝑉 of distinct integers. A binary search tree 𝑇 is created by \ninserting all elements of 𝑉 one by one, starting with an empty tree. The tree 𝑇 \nfollows the convention that, at each node, all values stored in the left subtree of the \nnode are smaller than the value stored at the node. You are not aware of the sequence \nin which these values were inserted into 𝑇, and you do not have access to 𝑇. \nWhich one of the following statements is TRUE? \n\n(A) \nInorder traversal of 𝑇 can be determined from 𝑉 \n(B) \nRoot node of 𝑇 can be determined from 𝑉 \n(C) \nPreorder traversal of 𝑇 can be determined from 𝑉 \n(D) \nPostorder traversal of 𝑇 can be determined from 𝑉",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 4,
+    "section_name": "Section 4: Programming and Data Structures"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q48",
+    "qnum": "48",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.48 \nLet S1 and S2 be two stacks. S1 has capacity of 4 elements. S2 has capacity of  \n2 elements. S1 already has 4 elements: 100, 200, 300, and 400, whereas S2 is \nempty, as shown below. \n\nOnly the following three operations are available: \nPushToS2: Pop the top element from S1 and push it on S2. \nPushToS1: Pop the top element from S2 and push it on S1. \nGenerateOutput: Pop the top element from S1 and output it to the \nuser. \n\nNote that the pop operation is not allowed on an empty stack and the push operation \nis not allowed on a full stack. \n\nWhich of the following output sequences can be generated by using the above \noperations? \n400 (Top) \n300 \n200 \n100 \nStack S1 \n\nStack S2  \n\n(A) \n100, 200, 400, 300 \n(B) \n200, 300, 400, 100 \n(C) \n400, 200, 100, 300 \n(D) \n300, 200, 400, 100",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 4,
+    "section_name": "Section 4: Programming and Data Structures"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q15",
+    "qnum": "15",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.15 \nLet 𝑇(𝑛) be the recurrence relation defined as follows: \n\n 𝑇(0) = 1, \n 𝑇(1) = 2, and \n 𝑇(𝑛) = 5𝑇(𝑛−1) −6𝑇(𝑛−2)    for 𝑛≥2  \n\nWhich one of the following statements is TRUE? \n\n(A) \n𝑇(𝑛) = ⁡Θ(2𝑛)⁡  \n(B) \n𝑇(𝑛) = ⁡Θ(𝑛2𝑛)  \n(C) \n𝑇(𝑛) = ⁡Θ(3𝑛)  \n(D) \n𝑇(𝑛) = ⁡Θ(𝑛3𝑛)",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 5,
+    "section_name": "Section 5: Algorithms"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q51",
+    "qnum": "51",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.51 \nLet 𝐺 be an undirected connected graph in which every edge has a positive integer \nweight. Suppose that every spanning tree in 𝐺 has even weight. Which of the \nfollowing statements is/are TRUE for every such graph 𝐺 ? \n\n(A) \nAll edges in 𝐺 have even weight \n(B) \nAll edges in 𝐺 have even weight OR all edges in 𝐺 have odd weight \n(C) \nIn each cycle 𝐶 in 𝐺, all edges in 𝐶 have even weight \n(D) \nIn each cycle 𝐶 in 𝐺, either all edges in 𝐶 have even weight OR all edges in 𝐶 \nhave odd weight",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 5,
+    "section_name": "Section 5: Algorithms"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q59",
+    "qnum": "59",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.59 \nThe number of distinct minimum-weight spanning trees of the following graph  \nis _________ \na\nb\ng\nd\nc\nf\ne\n3\n2\n2\n1\n2\n3\n2\n2\n2\n1\n1\n1",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 5,
+    "section_name": "Section 5: Algorithms"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q22",
+    "qnum": "22",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.22 \nWhich one of the following regular expressions is equivalent to the language \naccepted by the DFA given below? \n1\n1\n0\n0\n\n(A) \n0∗1(0 + 10∗1)∗ \n(B) \n0∗(10∗11)∗0∗ \n(C) \n0∗1(010∗1)∗0∗ \n(D) \n0(1 + 0∗10∗1)∗0∗",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 6,
+    "section_name": "Section 6: Theory of Computation"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q41",
+    "qnum": "41",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.41 \nLet 𝑀 be the 5-state NFA with 𝜖-transitions shown in the diagram below.  \n\nWhich one of the following regular expressions represents the language accepted \nby 𝑀 ? \n\n(A) \n⁡(00)∗⁡+ ⁡1(11)∗    \n(B) \n⁡0∗+ (1 + 0(00)∗)(11)∗⁡   \n(C) \n⁡(00)∗+ (1 + (00)∗)(11)∗⁡   \n(D) \n⁡0+ + 1(11)∗+ 0(11)∗⁡",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 6,
+    "section_name": "Section 6: Theory of Computation"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q52",
+    "qnum": "52",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.52 \nConsider a context-free grammar 𝐺 with the following 3 rules.  \n𝑆→𝑎𝑆, 𝑆→𝑎𝑆𝑏𝑆, 𝑆→𝑐  \nLet 𝑤∈⁡𝐿(𝐺). Let 𝑛𝑎(𝑤), 𝑛𝑏(𝑤), 𝑛𝑐(𝑤)⁡denote the number of times 𝑎, 𝑏, 𝑐 \noccur in 𝑤, respectively. Which of the following statements is/are TRUE? \n\n(A) \n𝑛𝑎(𝑤) > 𝑛𝑏(𝑤)⁡   \n(B) \n𝑛𝑎(𝑤) > 𝑛𝑐(𝑤) −2  \n(C) \n𝑛𝑐(𝑤) = 𝑛𝑏(𝑤) + 1  \n(D) \n𝑛𝑐(𝑤) = 𝑛𝑏(𝑤) ∗2",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 6,
+    "section_name": "Section 6: Theory of Computation"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q62",
+    "qnum": "62",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.62 \nLet 𝐿1 be the language represented by the regular expression  𝑏∗𝑎𝑏∗(𝑎𝑏∗𝑎𝑏∗)∗ \nand 𝐿2 = {⁡𝑤∈(𝑎+ 𝑏)∗⁡|⁡⁡|𝑤| ≤4}, where |𝑤| denotes the length of string \n𝑤.  The number of strings in 𝐿2 which are also in 𝐿1 is ___________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 6,
+    "section_name": "Section 6: Theory of Computation"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q21",
+    "qnum": "21",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.21 \nConsider the following two sets: \n             Set X                                                                Set Y \nP. Lexical Analyzer                                         1. Abstract Syntax Tree \nQ. Syntax Analyzer                                         2. Token \nR. Intermediate Code Generator                     3. Parse Tree \nS. Code Optimizer                                          4. Constant Folding                   \nWhich one of the following options is the CORRECT match from Set X to Set Y ? \n\n(A) \nP – 4; Q – 1; R – 3; S – 2 \n(B) \nP – 2; Q – 3; R – 1; S – 4 \n(C) \nP – 2; Q – 1; R – 3; S – 4 \n(D) \nP – 4; Q – 3; R – 2; S – 1",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 7,
+    "section_name": "Section 7: Compiler Design"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q29",
+    "qnum": "29",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.29 \nWhich of the following statements is/are FALSE? \n\n(A) \nAn attribute grammar is a syntax-directed definition (SDD) in which the functions \nin the semantic rules have no side effects \n(B) \nThe attributes in a L-attributed definition cannot always be evaluated in a depth-\nfirst order \n(C) \nSynthesized attributes can be evaluated by a bottom-up parser as the input is parsed \n(D) \nAll L-attributed definitions based on LR(1) grammar can be evaluated using a \nbottom-up parsing strategy",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 7,
+    "section_name": "Section 7: Compiler Design"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q40",
+    "qnum": "40",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.40 \nConsider the following context-free grammar where the start symbol is 𝑆 and the \nset of terminals is {𝑎,𝑏,𝑐,𝑑}. \n𝑆→𝐴𝑎𝐴𝑏⁡|⁡𝐵𝑏𝐵𝑎 \n𝐴→𝑐𝑆⁡|⁡𝜖 \n𝐵→𝑑𝑆⁡|⁡𝜖 \nThe following is a partially-filled LL(1) parsing table. \n\n𝑎 \n𝑏 \n𝑐 \n𝑑 \n$ \n𝑆 \n𝑆→𝐴𝑎𝐴𝑏 \n𝑆→𝐵𝑏𝐵𝑎 \n(1) \n(2) \n\n𝐴 \n𝐴→𝜖 \n(3) \n𝐴→𝑐𝑆 \n\n𝐵 \n(4) \n𝐵→𝜖 \n\n𝐵→𝑑𝑆 \n\nWhich one of the following options represents the CORRECT combination for the \nnumbered cells in the parsing table? \nNote: In the options, “blank” denotes that the corresponding cell is empty.   \n\n(A) \n(1) 𝑆→𝐴𝑎𝐴𝑏  (2) 𝑆→𝐵𝑏𝐵𝑎  (3) 𝐴→𝜖  (4) 𝐵→𝜖 \n(B) \n(1) 𝑆→𝐵𝑏𝐵𝑎  (2) 𝑆→𝐴𝑎𝐴𝑏  (3) 𝐴→𝜖  (4) 𝐵→𝜖 \n(C) \n(1) 𝑆→𝐴𝑎𝐴𝑏  (2) 𝑆→𝐵𝑏𝐵𝑎  (3) blank   (4) blank \n(D) \n(1) 𝑆→𝐵𝑏𝐵𝑎  (2) 𝑆→𝐴𝑎𝐴𝑏  (3) blank  (4) blank",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 7,
+    "section_name": "Section 7: Compiler Design"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q65",
+    "qnum": "65",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.65 \nConsider the following augmented grammar, which is to be parsed with a SLR \nparser. The set of terminals is {𝑎,𝑏,𝑐,𝑑,#,@}  \n𝑆′ →𝑆 \n𝑆→𝑆𝑆⁡|⁡𝐴𝑎⁡|⁡𝑏𝐴𝑐⁡|⁡𝐵𝑐⁡|⁡𝑏𝐵𝑎 \n𝐴→𝑑# \n𝐵→@ \nLet 𝐼0 = 𝐶𝐿𝑂𝑆𝑈𝑅𝐸({𝑆′ →⁡• 𝑆}). The number of items in the set 𝐺𝑂𝑇𝑂(𝐼0, 𝑆)  \nis ___________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 7,
+    "section_name": "Section 7: Compiler Design"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q24",
+    "qnum": "24",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.24 \nWhich of the following tasks is/are the responsibility/responsibilities of the memory \nmanagement unit (MMU) in a system with paging-based memory management? \n\n(A) \nAllocate a new page table for a newly created process \n(B) \nTranslate a virtual address to a physical address using the page table \n(C) \nRaise a trap when a virtual address is not found in the page table \n(D) \nRaise a trap when a process tries to write to a page marked with read-only \npermission in the page table",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 8,
+    "section_name": "Section 8: Operating Systems"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q25",
+    "qnum": "25",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.25 \nConsider a process P running on a CPU. Which one or more of the following events \nwill always trigger a context switch by the OS that results in process P moving to a \nnon-running state (e.g., ready, blocked)? \n\n(A) \nP makes a blocking system call to read a block of data from the disk \n(B) \nP tries to access a page that is in the swap space, triggering a page fault \n(C) \nAn interrupt is raised by the disk to deliver data requested by some other process \n(D) \nA timer interrupt is raised by the hardware",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 8,
+    "section_name": "Section 8: Operating Systems"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q37",
+    "qnum": "37",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.37 \nConsider a single processor system with four processes A, B, C, and D, represented \nas given below, where for each process the first value is its arrival time, and the \nsecond value is its CPU burst time. \nA (0, 10), B (2, 6), C (4, 3), and D (6, 7). \nWhich one of the following options gives the average waiting times when \npreemptive Shortest Remaining Time First (SRTF) and Non-Preemptive Shortest \nJob First (NP-SJF) CPU scheduling algorithms are applied to the processes? \n\n(A) \nSRTF = 6, NP-SJF = 7 \n(B) \nSRTF = 6, NP-SJF = 7.5 \n(C) \nSRTF = 7, NP-SJF = 7.5 \n(D) \nSRTF = 7, NP-SJF = 8.5",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 8,
+    "section_name": "Section 8: Operating Systems"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q46",
+    "qnum": "46",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.46 \nConsider a multi-threaded program with two threads T1 and T2. The threads share \ntwo semaphores: s1 (initialized to 1) and s2 (initialized to 0). The threads also \nshare a global variable x (initialized to 0). The threads execute the code shown \nbelow. \n\n// code of T1 \nwait(s1);  \nx = x+1;  \nprint(x);  \nwait(s2);  \nsignal(s1); \n  // code of T2  \n  wait(s1);  \n  x = x+1;  \n  print(x); \n  signal(s2);  \n  signal(s1); \n\nWhich of the following outcomes is/are possible when threads T1 and T2 execute \nconcurrently? \n\n(A) \nT1 runs first and prints 1, T2 runs next and prints 2 \n(B) \nT2 runs first and prints 1, T1 runs next and prints 2 \n(C) \nT1 runs first and prints 1, T2 does not print anything (deadlock) \n(D) \nT2 runs first and prints 1, T1 does not print anything (deadlock)",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 8,
+    "section_name": "Section 8: Operating Systems"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q64",
+    "qnum": "64",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.64 \nConsider a 32-bit system with 4 KB page size and page table entries of size 4 bytes \neach. Assume 1 KB = 210 bytes. The OS uses a 2-level page table for memory \nmanagement, with the page table containing an outer page directory and an inner \npage table. The OS allocates a page for the outer page directory upon process \ncreation. The OS uses demand paging when allocating memory for the inner page \ntable, i.e., a page of the inner page table is allocated only if it contains at least one \nvalid page table entry.  \nAn active process in this system accesses 2000 unique pages during its execution, \nand none of the pages are swapped out to disk. After it completes the page accesses, \nlet X denote the minimum and Y denote the maximum number of pages across the \ntwo levels of the page table of the process.  \nThe value of X+Y is ________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 8,
+    "section_name": "Section 8: Operating Systems"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q27",
+    "qnum": "27",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.27 \nWhich of the following statements about the Two Phase Locking (2PL) protocol \nis/are TRUE? \n\n(A) \n2PL permits only serializable schedules \n(B) \nWith 2PL, a transaction always locks the data item being read or written just \nbefore every operation and always releases the lock just after the operation \n(C) \nWith 2PL, once a lock is released on any data item inside a transaction, no more \nlocks on any data item can be obtained inside that transaction \n(D) \nA deadlock is possible with 2PL",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 9,
+    "section_name": "Section 9: Databases"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q45",
+    "qnum": "45",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.45 \nThe relation schema, Person(pid,city), describes the city of residence for \nevery person uniquely identified by pid. The following relational algebra operators \nare available: selection, projection, cross product, and rename. \n\nTo find the list of cities where at least 3 persons reside, using the above operators, \nthe minimum number of cross product operations that must be used is \n\n(A) \n1 \n(B) \n2 \n(C) \n3 \n(D) \n4",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 9,
+    "section_name": "Section 9: Databases"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q56",
+    "qnum": "56",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.56 \nA functional dependency 𝐹:⁡𝑋→𝑌 is termed as a useful functional dependency if \nand only if it satisfies all the following three conditions: \n• 𝑋 is not the empty set. \n• 𝑌 is not the empty set. \n• Intersection of 𝑋 and 𝑌 is the empty set. \n\nFor a relation 𝑅 with 4 attributes, the total number of possible useful functional \ndependencies is ________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 9,
+    "section_name": "Section 9: Databases"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q23",
+    "qnum": "23",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.23 \nNode X has a TCP connection open to node Y. The packets from X to Y go through \nan intermediate IP router R. Ethernet switch S is the first switch on the network path \nbetween X and R. Consider a packet sent from X to Y over this connection.  \nWhich of the following statements is/are TRUE about the destination IP and MAC \naddresses on this packet at the time it leaves X?  \n\n(A) \nThe destination IP address is the IP address of R \n(B) \nThe destination IP address is the IP address of Y \n(C) \nThe destination MAC address is the MAC address of S \n(D) \nThe destination MAC address is the MAC address of Y",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 10,
+    "section_name": "Section 10: Computer Networks"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q28",
+    "qnum": "28",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.28 \nWhich of the following statements about IPv4 fragmentation is/are TRUE? \n\n(A) \nThe fragmentation of an IP datagram is performed only at the source of the \ndatagram \n(B) \nThe fragmentation of an IP datagram is performed at any IP router which finds \nthat the size of the datagram to be transmitted exceeds the MTU \n(C) \nThe reassembly of fragments is performed only at the destination of the datagram \n(D) \nThe reassembly of fragments is performed at all intermediate routers along the \npath from the source to the destination",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 10,
+    "section_name": "Section 10: Computer Networks"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q38",
+    "qnum": "38",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.38 \nWhich one of the following CIDR prefixes exactly represents the range of  \nIP addresses 10.12.2.0 to 10.12.3.255? \n\n(A) \n10.12.2.0/23 \n(B) \n10.12.2.0/24 \n(C) \n10.12.0.0/22 \n(D) \n10.12.2.0/22",
+    "is_nat": false,
+    "has_options": true,
+    "section_id": 10,
+    "section_name": "Section 10: Computer Networks"
+  },
+  {
+    "id": "GATE 2024 (CS2)_Q54",
+    "qnum": "54",
+    "paper": "GATE 2024 (CS2)",
+    "text": "Q.54 \nConsider a TCP connection operating at a point of time with the congestion window \nof size 12 MSS (Maximum Segment Size), when a timeout occurs due to packet \nloss. Assuming that all the segments transmitted in the next two RTTs (Round Trip \nTime) are acknowledged correctly, the congestion window size (in MSS) during the \nthird RTT will be _________",
+    "is_nat": false,
+    "has_options": false,
+    "section_id": 10,
+    "section_name": "Section 10: Computer Networks"
+  }
+]
